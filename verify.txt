@@ -1,1 +1,1 @@
-this is to verify connectivity from github to jenkins for application deployment and monitoring
+this is to verify connectivity from github to jenkins for application deployment
